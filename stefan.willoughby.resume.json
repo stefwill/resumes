@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Stefan Willoughby",
+    "label": "Digital Analyst",
+    "picture": "",
+    "email": "me@stefwill.net",
+    "phone": "0417 109 145",
+    "website": "http://www.stefwill.net/",
+    "summary": "ADD SOME TEXT",
+    "location": {
+      "address": "111 Pilgrim Street",
+      "postalCode": "3011",
+      "city": "Seddon",
+      "countryCode": "AU",
+      "region": "Victoria"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "stefwill",
+        "url": "http://www.stefwill.net/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Country Road Group",
+      "position": "Digital Insights Analyst",
+      "website": "https://www.countryroadgroup.com.au",
+      "startDate": "2017-09-01",
+      "endDate": "Current",
+      "summary": "ADD SOME TEXT",
+      "highlights": []
+    },
+    {
+      "company": "Bureau of Meteorology",
+      "position": "Digital Analyst / Producer",
+      "website": "https://www.bom.gov.au",
+      "startDate": "2012",
+      "endDate": "2017-08-15",
+      "summary": "ADD SOME TEXT",
+      "highlights": []
+    },
+    {
+      "company": "Bureau of Meteorology",
+      "position": "Web Systems & Database Developer",
+      "website": "https://www.bom.gov.au",
+      "startDate": "2009-07-01",
+      "endDate": "2012",
+      "summary": "ADD SOME TEXT",
+      "highlights": []
+    },
+    {
+      "company": "Department of Education and Early Childhood Development, Victoria",
+      "position": "Project Officer",
+      "website": "https://www.education.vic.gov.au",
+      "startDate": "2008-06-01",
+      "endDate": "2009-07-01",
+      "summary": "ADD SOME TEXT",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Web Analytics Wednesday Melbourne",
+      "position": "Organiser",
+      "website": "http://www.wawmelbourne.com",
+      "startDate": "2018-01-01",
+      "endDate": "Current",
+      "summary": "ADD SOME TEXT",
+      "highlights": []
+    },
+    {
+      "organization": "MeasureCamp Melbourne",
+      "position": "Organiser",
+      "website": "https://melbourne.measurecamp.org/",
+      "startDate": "2018-01-01",
+      "endDate": "Current",
+      "summary": "ADD SOME TEXT",
+      "highlights": []
+    }
+  ],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Google Stack",
+      "level": "Intermediate",
+      "keywords": [
+        "Google Analytics",
+        "Google Tag Manager",
+        "Google Data Studio",
+        "Google Big Query"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Making",
+      "keywords": [
+        "Electronics",
+        "Woodworking",
+        "Replica Prop making",
+        "3D Printing"
+      ]
+    }
+  ],
+  "references": []
+}
